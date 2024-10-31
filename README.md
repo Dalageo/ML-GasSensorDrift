@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/87911df2-777f-4ac7-8dfb-56f3fda7fc45" alt="Gas sensor" width="650" height="350"/>
+  <img src="https://github.com/user-attachments/assets/87911df2-777f-4ac7-8dfb-56f3fda7fc45" alt="Gas sensor" width="600" />
 </div>
 
 <div align="center">
