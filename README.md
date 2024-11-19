@@ -10,7 +10,7 @@
 <a href="https://developer.nvidia.com/cudnn" target="_blank">
   <img src="https://img.shields.io/badge/cuDNN-8.9.7-brightgreen.svg" alt="cuDNN 8.9.7"></a>
   <a href="https://github.com/Dalageo/ML-GasSensorDrift/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-D22128" alt="License: Apache License 2.0"></a>
+    <img src="https://img.shields.io/badge/License-AGPL%20v3-800080" alt="License: AGPLv3"></a>
   <img src="https://img.shields.io/github/stars/Dalageo/ML-GasSensorDrift?style=social" alt="GitHub stars">
 </div>
 
