@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/Dalageo/ML-GasSensorDrift?style=social" alt="GitHub stars">
 </div>
 
-# Drift Detection in Gas Sensor Array at Different Concentration Levels
+# Drift Detection in Gas Sensor Array at Different Concentration Levels ☢️
 
 Sensor calibration is the process of adjusting a sensor's output to ensure it accurately reflects the true value of what it measures. By aligning sensor readings with known standards or reference measurements, calibration corrects deviations caused by manufacturing differences, environmental changes, or sensor drift over time. This process is essential for acquiring reliable data and preventing measurement errors, flawed analyses, and potentially unsafe decisions in systems that depend on precise data.
 
