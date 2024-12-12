@@ -103,10 +103,7 @@ The dataset included in this repository is licensed under the [Creative Commons 
 <div align="center">
   <br>
   <a href="https://creativecommons.org/licenses/by/4.0">
-    <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" width="120">
-  </a>
-  <br> 
-  <br>
+    <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" width="170"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
     <img src="https://github.com/user-attachments/assets/f3c6face-aa86-45da-8d20-d8ae25e49e28" alt="AGPLv3-Logo" width="200">
   </a>
